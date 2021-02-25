@@ -12,4 +12,4 @@ RAM: 128 MB
 Scheda Video: Supporto OpenGL
 HDD: 100MB (per Windows), 20MB (per Linux)
 
-Librerie usate: SFML 2.5.1 (https://www.sfml-dev.org/), cmath, cstdlib, stdio, vector, iostream
+Librerie usate: SFML 2.5.1 (https://www.sfml-dev.org/)
