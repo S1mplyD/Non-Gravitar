@@ -13,3 +13,13 @@ Scheda Video: Supporto OpenGL
 HDD: 100MB (per Windows), 20MB (per Linux)
 
 Librerie usate: SFML 2.5.1 (https://www.sfml-dev.org/)
+
+## Istruzioni per la compilazione
+
+Scaricare le librerie di SFML citate sopra, creare una directory "src" nella root directory, inserire le cartelle "include" e "lib".
+
+Per compilare non-gravitar eseguire il seguente comando
+
+```bash
+make
+```
